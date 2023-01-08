@@ -15,3 +15,27 @@ body::before {
   .custom-class {
     font-size:100px;
   }
+
+  #my-form{
+    background-color: aquamarine;
+   
+  }
+
+  label, input{
+    display: block;
+  }
+
+  label{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .error {
+    background: orangered;
+    color: #fff;
+    padding: 5px;
+    margin:5px;
+}
+
+  
+
